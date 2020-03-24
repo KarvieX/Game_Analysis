@@ -6,6 +6,6 @@ This repository contains the take home challenge files created by Jiawei Xia for
 
 1. Python Jupyter Notebook: [Data analysis](KarvieX/..)
 
-2. Visualization Dashboard: [Web version](xxx) or [Tableau desktop](...)
+2. Visualization Dashboard: [Web version](xxx) or [Tableau desktop](https://public.tableau.com/profile/karvie.xia#!/vizhome/TencentGameNA/Overview)
 
 3. Presentation: [Slides](...)
