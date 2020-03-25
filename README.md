@@ -13,4 +13,4 @@ This repository contains the take home challenge files created by Jiawei Xia for
 	* [Business Dashboard](https://public.tableau.com/profile/karvie.xia#!/vizhome/TencentGameNA/Overview) 
 	* [Cluster, Anomaly and Time Series Analysis](https://public.tableau.com/profile/karvie.xia#!/vizhome/GameTimeSeriesAnalysis/Characteristics)
 
-3. Presentation: [Slides](...)
+3. Presentation: [Slides](https://github.com/KarvieX/TencentNA/blob/master/TencentNA.pdf)
