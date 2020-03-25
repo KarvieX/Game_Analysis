@@ -8,9 +8,9 @@ This repository contains the take home challenge files created by Jiawei Xia for
 	* [ipynb file](https://github.com/KarvieX/TencentNA/blob/master/TencentNA.ipynb)
 	* [html file](https://github.com/KarvieX/TencentNA/blob/master/TencentNA.html)
 
-2. Visualization Dashboard: 
+2. Dashboard / Visualization: 
 
-	* [Web version](https://public.tableau.com/profile/karvie.xia#!/vizhome/TencentGameNA/Overview) 
-	* [Tableau desktop version](https://github.com/KarvieX/TencentNA/blob/master/Tencent%20Game%20NA.twbx)
+	* [Business Dashboard](https://public.tableau.com/profile/karvie.xia#!/vizhome/TencentGameNA/Overview) 
+	* [Time Series Analysis and Anomaly Detection Graphs](https://public.tableau.com/profile/karvie.xia#!/vizhome/GameTimeSeriesAnalysis/Characteristics)
 
 3. Presentation: [Slides](...)
