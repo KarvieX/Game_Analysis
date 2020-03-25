@@ -4,7 +4,9 @@ This repository contains the take home challenge files created by Jiawei Xia for
 
 ## Content
 
-1. Python Jupyter Notebook: [Data analysis](https://github.com/KarvieX/TencentNA/blob/master/TencentNA.ipynb)
+1. Python Jupyter Notebook: 
+	* [ipynb file](https://github.com/KarvieX/TencentNA/blob/master/TencentNA.ipynb)
+	* [html file](https://github.com/KarvieX/TencentNA/blob/master/TencentNA.html)
 
 2. Visualization Dashboard: 
 
