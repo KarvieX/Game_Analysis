@@ -1,6 +1,6 @@
-## TencentNA Take Home Challenge
+## Tencent Game NA Data Challenge
 
-This repository contains the take home challenge files created by Jiawei Xia for the data science intern position at Tencent NA. The dataset was provided by Tencent NA.
+This repository contains the data challenge files provided by Tencent NA to simulate a business context. These files are for the data challenge purposes and don't reflect the real business.
 
 ## Content
 
